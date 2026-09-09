@@ -19,8 +19,8 @@ Thumbs.db
 # Backend (Maven)
 backend/target/
 backend/.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+
+
 
 # Frontend (Node / React / Vite)
 frontend/node_modules/

@@ -12,10 +12,10 @@ function Home() {
     <div className="min-h-screen bg-slate-950 text-white flex flex-col items-center justify-center p-6 selection:bg-violet-500 selection:text-white">
       <div className="max-w-3xl w-full text-center">
         <h1 className="text-5xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-violet-400 via-pink-500 to-amber-400 mb-4">
-          RestoFlow Monorepo
+          RestoFlow 
         </h1>
         <p className="text-slate-400 text-lg mb-12 max-w-xl mx-auto">
-          Plataforma de pedidos y gestión en tiempo real para restaurantes bajo arquitectura hexagonal.
+          Plataforma de pedidos y gestión en tiempo real para restaurantes.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-left">
